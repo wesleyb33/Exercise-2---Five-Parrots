@@ -1,6 +1,6 @@
 #Programmer: Wesley
 #Date: 09/15/2021
-#Purpose: To get experience 
+#Description: To get experience 
 
 
 
